@@ -5,9 +5,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-Francisco
-Flavio 
-César
+Collavecchia, F.
+Clauser, C.
+Navarrete, F.
 
 
 # THANKS
