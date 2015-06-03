@@ -5,7 +5,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
+Collavecchia, Flavio.
+Clauser, César.
+Navarrete, Francisco.
 
+Test changes number two.
 
 
 # THANKS
