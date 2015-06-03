@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Departamento IRM</title>
+    <description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
+    <link>https://phlow.github.io/feeling-responsive/</link>
+    <atom:link href="https://phlow.github.io/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Wonderful Typography</title>
@@ -13,6 +13,7 @@
     &lt;div class=&quot;panel radius&quot;&gt;
       &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#este-sitio-tambin-soporta-latex&quot; id=&quot;markdown-toc-este-sitio-tambin-soporta-latex&quot;&gt;Este sitio también soporta LaTeX!!&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#lato-a-sans-serif-typeface-family&quot; id=&quot;markdown-toc-lato-a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#about-volkhov-lth2gt&quot; id=&quot;markdown-toc-about-volkhov-lth2gt&quot;&gt;About Volkhov &amp;lt;h2&amp;gt;&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#feeling-responsive-uses-volkhov-for--lth3gt&quot; id=&quot;markdown-toc-feeling-responsive-uses-volkhov-for--lth3gt&quot;&gt;Feeling Responsive uses Volkhov for…  &amp;lt;h3&amp;gt;&lt;/a&gt;        &lt;ul&gt;
@@ -77,6 +78,10 @@
 
 
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;este-sitio-tambin-soporta-latex&quot;&gt;Este sitio también soporta LaTeX!!&lt;/h2&gt;
+
+    &lt;p&gt;Crease o no, esto está escrito en LaTeX : &lt;script type=&quot;math/tex&quot;&gt;\Phi(x,y)&lt;/script&gt;&lt;/p&gt;
 
     &lt;h2 id=&quot;lato-a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/h2&gt;
 
@@ -426,8 +431,8 @@ element&lt;/td&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Mon, 16 Nov 2015 00:00:00 -0300</pubDate>
-        <link>/design/2015/11/16/typography.html</link>
-        <guid isPermaLink="true">/design/2015/11/16/typography.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/typography/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/typography/</guid>
       </item>
     
       <item>
@@ -437,8 +442,8 @@ element&lt;/td&gt;
 &lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 -0300</pubDate>
-        <link>/design/2015/11/15/comments.html</link>
-        <guid isPermaLink="true">/design/2015/11/15/comments.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/comments/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/comments/</guid>
       </item>
     
       <item>
@@ -455,21 +460,21 @@ element&lt;/td&gt;
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -477,8 +482,8 @@ element&lt;/td&gt;
 
 </description>
         <pubDate>Sun, 11 Oct 2015 00:00:00 -0300</pubDate>
-        <link>/design/2015/10/11/no-header.html</link>
-        <guid isPermaLink="true">/design/2015/10/11/no-header.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/no-header/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/no-header/</guid>
       </item>
     
       <item>
@@ -499,21 +504,21 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -521,8 +526,8 @@ image:
 
 </description>
         <pubDate>Thu, 12 Mar 2015 00:00:00 -0300</pubDate>
-        <link>/design/2015/03/12/no-header-but-image.html</link>
-        <guid isPermaLink="true">/design/2015/03/12/no-header-but-image.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/no-header-but-image/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/no-header-but-image/</guid>
       </item>
     
       <item>
@@ -539,21 +544,21 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -561,8 +566,8 @@ image:
 
 </description>
         <pubDate>Thu, 12 Mar 2015 00:00:00 -0300</pubDate>
-        <link>/design/2015/03/12/no-header.html</link>
-        <guid isPermaLink="true">/design/2015/03/12/no-header.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/no-header/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/no-header/</guid>
       </item>
     
       <item>
@@ -583,21 +588,21 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -605,8 +610,8 @@ image:
 
 </description>
         <pubDate>Tue, 10 Feb 2015 00:00:00 -0300</pubDate>
-        <link>/design/2015/02/10/header-with-text.html</link>
-        <guid isPermaLink="true">/design/2015/02/10/header-with-text.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/header-with-text/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/header-with-text/</guid>
       </item>
     
       <item>
@@ -620,21 +625,21 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -642,13 +647,13 @@ image:
 
 </description>
         <pubDate>Thu, 09 Oct 2014 00:00:00 -0300</pubDate>
-        <link>/design/2014/10/09/header-logo-only.html</link>
-        <guid isPermaLink="true">/design/2014/10/09/header-logo-only.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/header-logo-only/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/header-logo-only/</guid>
       </item>
     
       <item>
         <title>Header Image With Background Color</title>
-        <description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the &lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;example with a background pattern&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
 
@@ -668,21 +673,21 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -690,8 +695,8 @@ image:
 
 </description>
         <pubDate>Thu, 09 Oct 2014 00:00:00 -0300</pubDate>
-        <link>/design/2014/10/09/header-image-color.html</link>
-        <guid isPermaLink="true">/design/2014/10/09/header-image-color.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/header-image-color/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/header-image-color/</guid>
       </item>
     
       <item>
@@ -713,21 +718,21 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -735,13 +740,13 @@ image:
 
 </description>
         <pubDate>Thu, 09 Oct 2014 00:00:00 -0300</pubDate>
-        <link>/design/2014/10/09/header-full-width-image.html</link>
-        <guid isPermaLink="true">/design/2014/10/09/header-full-width-image.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/header-full-width-image/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/header-full-width-image/</guid>
       </item>
     
       <item>
         <title>Header Image With Pattern</title>
-        <description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;It’s so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the &lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;example with a background color&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
 
@@ -759,21 +764,21 @@ image:
   
 
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/10/11/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header-but-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/03/12/no-header.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2015/02/10/header-with-text.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-logo-only.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-image-color.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/09/header-full-width-image.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;/design/2014/10/08/header-image-pattern.html&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -781,8 +786,8 @@ image:
 
 </description>
         <pubDate>Wed, 08 Oct 2014 00:00:00 -0300</pubDate>
-        <link>/design/2014/10/08/header-image-pattern.html</link>
-        <guid isPermaLink="true">/design/2014/10/08/header-image-pattern.html</guid>
+        <link>https://phlow.github.io/feeling-responsive/design/header-image-pattern/</link>
+        <guid isPermaLink="true">https://phlow.github.io/feeling-responsive/design/header-image-pattern/</guid>
       </item>
     
   </channel>
