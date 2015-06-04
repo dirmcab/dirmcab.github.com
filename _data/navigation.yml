@@ -2,9 +2,21 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: El Departamento
   url: "/getting-started/"
   side: left
+
+- title: "Miembros"
+  url: "/design/"
+  side: left
+  dropdown:
+  - title: "Atómica"
+    url: "/design/grid/"
+  - title: "Superficies"
+    url: "/design/typography/"
+  - title: "Plasma"
+    url: "/design/page/"
+
 
 - title: "Templates"
   url: "/design/"
