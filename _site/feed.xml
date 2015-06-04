@@ -328,7 +328,7 @@
 
     &lt;h3 id=&quot;ltugt&quot;&gt;&amp;lt;u&amp;gt;&lt;/h3&gt;
 
-    &lt;div&gt;&lt;p&gt;&lt;u&gt;Underlining&lt;/u&gt; content for emphasize is not the best choice. You can&#39;t read it so well.&lt;/p&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;p&gt;&lt;u&gt;Underlining&lt;/u&gt; content for emphasize is not the best choice. You can't read it so well.&lt;/p&gt;&lt;/div&gt;
 
     &lt;h3 id=&quot;ltmarkgt&quot;&gt;&amp;lt;mark&amp;gt;&lt;/h3&gt;
     &lt;p&gt;Let’s &lt;mark&gt;mark this hint&lt;/mark&gt; to give you a clue.&lt;/p&gt;
