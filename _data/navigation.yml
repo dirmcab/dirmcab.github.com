@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Atómica"
-    url: "/design/grid/"
+    url: "/atomica/page/"
   - title: "Superficies"
     url: "/design/typography/"
   - title: "Plasma"
