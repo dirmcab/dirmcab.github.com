@@ -184,13 +184,14 @@
     &lt;hr /&gt;
 
     &lt;h3 id=&quot;ltpregt-displaying-code&quot;&gt;&amp;lt;pre&amp;gt; Displaying Code&lt;/h3&gt;
-    &lt;pre&gt;&lt;code&gt;&amp;lt;html&amp;gt;
-    &amp;lt;head&amp;gt;
-        &amp;lt;title&amp;gt;Code Blocks&amp;lt;/title&amp;gt;
-    &amp;lt;/head&amp;gt;
-    &amp;lt;body&amp;gt;&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Code Blocks&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
+    &lt;/div&gt;
 
     &lt;h3 id=&quot;ltblockquotegt-quotation&quot;&gt;&amp;lt;blockquote&amp;gt; Quotation&lt;/h3&gt;
     &lt;blockquote&gt;Everything happens for a reason. (Britney Spears)&lt;/blockquote&gt;
@@ -296,7 +297,7 @@
 
     &lt;h3 id=&quot;ltcodegt&quot;&gt;&amp;lt;code&amp;gt;&lt;/h3&gt;
 
-    &lt;p&gt;Some &lt;code&gt;code: lucida console&lt;/code&gt; displayed.&lt;/p&gt;
+    &lt;p&gt;Some &lt;code class=&quot;highlighter-rouge&quot;&gt;code: lucida console&lt;/code&gt; displayed.&lt;/p&gt;
 
     &lt;h3 id=&quot;ltvargt&quot;&gt;&amp;lt;var&amp;gt;&lt;/h3&gt;
 
@@ -328,7 +329,7 @@
 
     &lt;h3 id=&quot;ltugt&quot;&gt;&amp;lt;u&amp;gt;&lt;/h3&gt;
 
-    &lt;div&gt;&lt;p&gt;&lt;u&gt;Underlining&lt;/u&gt; content for emphasize is not the best choice. You can't read it so well.&lt;/p&gt;&lt;/div&gt;
+    &lt;div&gt;&lt;p&gt;&lt;u&gt;Underlining&lt;/u&gt; content for emphasize is not the best choice. You can&#39;t read it so well.&lt;/p&gt;&lt;/div&gt;
 
     &lt;h3 id=&quot;ltmarkgt&quot;&gt;&amp;lt;mark&amp;gt;&lt;/h3&gt;
     &lt;p&gt;Let’s &lt;mark&gt;mark this hint&lt;/mark&gt; to give you a clue.&lt;/p&gt;
@@ -437,9 +438,9 @@ element&lt;/td&gt;
     
       <item>
         <title>Now with Comments!</title>
-        <description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code&gt;config.yml&lt;/code&gt; and add your &lt;code&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;If you want to use Disqus-Comments with &lt;em&gt;Feeling Responsive&lt;/em&gt;, just open &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt; and add your &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt;. &lt;a href=&quot;https://disqus.com/websites/&quot;&gt;More on how to use Disqus ›&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;By default comments are turned off. You can customize the default behaviour in &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To &lt;strong&gt;turn on comments&lt;/strong&gt; just add &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; to front matter using the page layout &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: page&lt;/code&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:00:00 -0300</pubDate>
         <link>https://dirmcab.github.io/design/comments/</link>
@@ -450,8 +451,9 @@ element&lt;/td&gt;
         <title>No Header</title>
         <description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;header: no
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
@@ -462,9 +464,9 @@ element&lt;/td&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -488,54 +490,11 @@ element&lt;/td&gt;
     
       <item>
         <title>No Header but Article Image</title>
-        <description>&lt;p&gt;First turn of the header with &lt;code&gt;header: no&lt;/code&gt;. Than add an image to with the following code. The caption is optional.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;header: no
-image:
-    title: unsplash_eagle.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 12 Mar 2015 00:00:00 -0300</pubDate>
-        <link>https://dirmcab.github.io/design/no-header-but-image/</link>
-        <guid isPermaLink="true">https://dirmcab.github.io/design/no-header-but-image/</guid>
-      </item>
-    
-      <item>
-        <title>No Header but Article Image</title>
         <description>&lt;p&gt;&lt;em&gt;Silence is beautiful.&lt;/em&gt; Sometimes you just want no distractions at all. Wether you like the content to speak for itself or enjoy pure typography on a plain background: &lt;em&gt;Feeling Responsive&lt;/em&gt; got you covered. Just say &lt;em&gt;no&lt;/em&gt; like this:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;header: no
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
@@ -546,9 +505,9 @@ image:
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -571,15 +530,16 @@ image:
       </item>
     
       <item>
-        <title>Header With Text</title>
-        <description>&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+        <title>No Header but Article Image</title>
+        <description>&lt;p&gt;First turn of the header with &lt;code class=&quot;highlighter-rouge&quot;&gt;header: no&lt;/code&gt;. Than add an image to with the following code. The caption is optional.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header: no
+image:
+    title: unsplash_eagle.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
@@ -590,9 +550,54 @@ image:
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-logo-only/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Logo Only&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-image-color/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Background Color&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-full-width-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header with a Full-Width-Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-image-pattern/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header Image With Pattern&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 12 Mar 2015 00:00:00 -0300</pubDate>
+        <link>https://dirmcab.github.io/design/no-header-but-image/</link>
+        <guid isPermaLink="true">https://dirmcab.github.io/design/no-header-but-image/</guid>
+      </item>
+    
+      <item>
+        <title>Header With Text</title>
+        <description>&lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
+    title: header with text
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -627,9 +632,9 @@ image:
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -659,12 +664,13 @@ image:
 
 &lt;div class=&quot;alert-box radius alert&quot;&gt;WARNING: To make this work the value of &lt;em&gt;background-color&lt;/em&gt; must be inbetween quotes.&lt;/div&gt;
 
-&lt;pre&gt;&lt;code&gt;header:
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
     image:  &quot;header_unsplash_2-970x.jpg&quot;
     background-color:  &quot;#fabb00&quot;
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
@@ -675,9 +681,9 @@ image:
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -705,11 +711,12 @@ image:
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;header:
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
     image_fullwidth: &quot;unsplash_brooklyn-bridge_header.jpg&quot;
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
@@ -720,9 +727,9 @@ image:
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
@@ -750,12 +757,13 @@ image:
 
 &lt;h2 id=&quot;front-matter-code&quot;&gt;Front Matter Code&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code&gt;header:
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;header:
     image:  &quot;header_unsplash_2-970x.jpg&quot;
     pattern:  &quot;pattern_concrete.jpg&quot;
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;t60&quot; id=&quot;all-header-styles&quot;&gt;All Header-Styles&lt;/h3&gt;
 
@@ -766,9 +774,9 @@ image:
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/no-header-but-image/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;No Header but Article Image&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;https://dirmcab.github.io/design/header-with-text/&quot;&gt;Headers With Style &amp;middot; &lt;strong&gt;Header With Text&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
