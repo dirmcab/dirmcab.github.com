@@ -6,12 +6,12 @@
   url: "/departamento/"
   side: left
 
-- title: "Miembros"
-  url: "/design/"
+- title: "Grupos"
+  url: "/grupos/"
   side: left
   dropdown:
   - title: "Atómica"
-    url: "/atomica/pirulo/"
+    url: "/atomica/"
   - title: "Superficies"
     url: "/design/typography/"
   - title: "Fusión Nuclear y Fisica de Plasmas"
