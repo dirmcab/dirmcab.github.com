@@ -1,12 +1,12 @@
 ---
 layout: page
 subheadline: Templates
-title:  "The Post/Page Template: HOLA HOLA :D"
+title:  "probando un nuevo post"
 teaser: "The default template for posts and pages aligns the page beautifully in the middle. <strong>But</strong> you can customize posts/pages easily via switches in the front matter to <em>get a sidebar</em> and/or to <em>turn off meta-information</em> at the end of the page like categories, tags and dates."
 meta_teaser: "This is an example of a beautiful aligned post in the middle. There is no sidebar to distract the reader. The difference to the Page-Template is, that you find meta-information at the bottom of the post."
 breadcrumb: true
 categories:
-    - atomica
+    - fusion
 tags:
     - blog
     - content
@@ -34,4 +34,3 @@ show_meta: false
 ## Other Post Formats
 {: .t60 }
 {% include list-posts.html tag='post format' %}
-
