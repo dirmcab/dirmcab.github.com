@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Atómica"
-    url: "/atomica/"
+    url: "/atomica/atomica"
   - title: "Superficies"
     url: "/design/typography/"
   - title: "Fusión Nuclear y Fisica de Plasmas"
